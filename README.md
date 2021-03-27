@@ -1,4 +1,4 @@
-<img align='center' src="abc.jpg" >
+<img align='center' src="abc.jpg" width="100%">
 
 ## Hello Beautiful World, I'm **Nehal Ahmed**!
 <img align='right' src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" width="250">
