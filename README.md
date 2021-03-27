@@ -62,7 +62,6 @@
 
 </td></tr></table>
 
-<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
 
 ## Connect me on:
 - Email: nehal.ubit@gmail.com
@@ -73,7 +72,7 @@ _**Note:** Please **do not spam** on the above mentioned profiles._
 
 ## Some of My Work In the form of Tutorial
 
-[![Face Recognition System](FR.PNG | width=50)](https://www.youtube.com/watch?v=v2384be0_qU&t=24s | width=100)
+[![Face Recognition System](FR.PNG) | width=100](https://www.youtube.com/watch?v=v2384be0_qU&t=24s )
 
 [![Natural Language Processing](nlp.PNG | width=50)](https://www.youtube.com/watch?v=QIF1eJcytnI&list=PLk6c4eFKmugRp_A-4eYzixYXbeNOOgR0G&index=1)
 
