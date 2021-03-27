@@ -73,9 +73,9 @@ _**Note:** Please **do not spam** on the above mentioned profiles._
 
 ## Some of My Work In the form of Tutorial
 
-[![Face Recognition System](FR.PNG)](https://www.youtube.com/watch?v=v2384be0_qU&t=24s | width=100)
+[![Face Recognition System](FR.PNG | width=50)](https://www.youtube.com/watch?v=v2384be0_qU&t=24s | width=100)
 
-[![Natural Language Processing](nlp.PNG)](https://www.youtube.com/watch?v=QIF1eJcytnI&list=PLk6c4eFKmugRp_A-4eYzixYXbeNOOgR0G&index=1 | width=100)
+[![Natural Language Processing](nlp.PNG | width=50)](https://www.youtube.com/watch?v=QIF1eJcytnI&list=PLk6c4eFKmugRp_A-4eYzixYXbeNOOgR0G&index=1)
 
 [![Opticle Character Recognition](OR.png)](https://www.youtube.com/watch?v=EnVnqI6crv0 | width=100)
 
