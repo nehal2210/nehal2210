@@ -62,21 +62,17 @@
 
 </td></tr></table>
 
-
+<br>
 ## Connect me on:
 - Email: nehal.ubit@gmail.com
 - Kaggle: www.kaggle.com/
 - Reddit: www.reddit.com/user/kingabzpro
 
 _**Note:** Please **do not spam** on the above mentioned profiles._
-
+<br>
 ## Some of My Work In the form of Tutorial
 
 <img src = "FR.PNG" width=708 hight=399 ><a href="https://www.youtube.com/watch?v=v2384be0_qU&t=24s"></a></img>
-
-[![Natural Language Processing](nlp.PNG | width=50)](https://www.youtube.com/watch?v=QIF1eJcytnI&list=PLk6c4eFKmugRp_A-4eYzixYXbeNOOgR0G&index=1){ width=250px }
-
-[![Opticle Character Recognition](OR.png)](https://www.youtube.com/watch?v=EnVnqI6crv0)
-
-[![Turtle Dsign](TD.png)](https://www.youtube.com/watch?v=7n-9kAPWR0k)
-
+<img src = "nlp.PNG" width=708 hight=399 ><a href="https://www.youtube.com/watch?v=v2384be0_qU&t=24s"></a></img>
+<img src = "OR.png" width=708 hight=399 ><a href="https://www.youtube.com/watch?v=v2384be0_qU&t=24s"></a></img>
+<img src = "TD.png" width=708 hight=399 ><a href="https://www.youtube.com/watch?v=v2384be0_qU&t=24s"></a></img>
