@@ -72,7 +72,7 @@ _**Note:** Please **do not spam** on the above mentioned profiles._
 
 ## Some of My Work In the form of Tutorial
 
-<img src = "FR.PNG"><a href="https://www.youtube.com/watch?v=v2384be0_qU&t=24s"></a></img>
+<img src = "FR.PNG" width=708 hight=399 ><a href="https://www.youtube.com/watch?v=v2384be0_qU&t=24s"></a></img>
 
 [![Natural Language Processing](nlp.PNG | width=50)](https://www.youtube.com/watch?v=QIF1eJcytnI&list=PLk6c4eFKmugRp_A-4eYzixYXbeNOOgR0G&index=1){ width=250px }
 
