@@ -62,14 +62,12 @@
 
 </td></tr></table>
 
-<hr>
 ## Connect me on:
 - Email: nehal.ubit@gmail.com
 - Kaggle: www.kaggle.com/
 - Reddit: www.reddit.com/user/kingabzpro
 
 _**Note:** Please **do not spam** on the above mentioned profiles._
-<hr>
 ## Some of My Work In the form of Tutorial
 
 <a href="https://www.youtube.com/watch?v=v2384be0_qU&t=24s"><img src = "FR.PNG" width=708 hight=399 ></a>
