@@ -72,11 +72,11 @@ _**Note:** Please **do not spam** on the above mentioned profiles._
 
 ## Some of My Work In the form of Tutorial
 
-[![Face Recognition System](FR.PNG)](https://www.youtube.com/watch?v=v2384be0_qU&t=24s ){ width=250px }
+[![Face Recognition System](FR.PNG =250x)](https://www.youtube.com/watch?v=v2384be0_qU&t=24s)
 
-[![Natural Language Processing](nlp.PNG | width=50)](https://www.youtube.com/watch?v=QIF1eJcytnI&list=PLk6c4eFKmugRp_A-4eYzixYXbeNOOgR0G&index=1)
+[![Natural Language Processing](nlp.PNG | width=50)](https://www.youtube.com/watch?v=QIF1eJcytnI&list=PLk6c4eFKmugRp_A-4eYzixYXbeNOOgR0G&index=1){ width=250px }
 
-[![Opticle Character Recognition](OR.png)](https://www.youtube.com/watch?v=EnVnqI6crv0 | width=100)
+[![Opticle Character Recognition](OR.png)](https://www.youtube.com/watch?v=EnVnqI6crv0)
 
-[![Turtle Dsign](TD.png)](https://www.youtube.com/watch?v=7n-9kAPWR0k | width=100)
+[![Turtle Dsign](TD.png)](https://www.youtube.com/watch?v=7n-9kAPWR0k)
 
