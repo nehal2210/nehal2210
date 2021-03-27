@@ -57,29 +57,27 @@ More on [simonwillison.net](https://simonwillison.net/)
 
 * **Python Microsoft Certification**
 * **AI For Every One by Andrew NG Coursera** 
-
+* **Introduction to Blockchain BY Zeeshan Usmani ALnafi**
 <!-- tils ends -->
 
 </td></tr></table>
 
-<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a
+<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
 
 ## Connect me on:
-- Email: abidaliawan@tutamail.com
-- Kaggle: www.kaggle.com/kingabzpro
+- Email: nehal.ubit@gmail.com
+- Kaggle: www.kaggle.com/
 - Reddit: www.reddit.com/user/kingabzpro
 
 _**Note:** Please **do not spam** on the above mentioned profiles._
 
-## Competition Performance
+## Some of My Work In the form of Tutorial
 
+[![Face Recognition System](FR.png)](https://www.youtube.com/watch?v=v2384be0_qU&t=24s)
 
-[![CSV](Competitionbutton.png)](Kaggle_Competitions_Performance.csv)
+[![Natural Language Processing](nlp.png)](https://www.youtube.com/watch?v=QIF1eJcytnI&list=PLk6c4eFKmugRp_A-4eYzixYXbeNOOgR0G&index=1)
 
-[![Kaggle](CompetitionbuttonKaggle.png)](https://www.kaggle.com/kingabzpro)
+[![Opticle Character Recognition](OR.png)](https://www.youtube.com/watch?v=EnVnqI6crv0)
 
-[![DD](CompetitionbuttonDD.png)](https://www.drivendata.org/users/kingabzpro/)
+[![Turtle Dsign](TD.png)](https://www.youtube.com/watch?v=7n-9kAPWR0k)
 
-[![DD](Devpost.png)](https://devpost.com/kingabzpro?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-
-[![DD](Zindi.png)](https://zindi.africa/users/kingabzpro)
