@@ -64,13 +64,14 @@
 
 ## Connect me on:
 - Email: nehal.ubit@gmail.com
-- Kaggle: www.kaggle.com/
+- Kaggle: https://www.kaggle.com/gatshabz22
 - Reddit: www.reddit.com/user/kingabzpro
 
 _**Note:** Please **do not spam** on the above mentioned profiles._
 ## Some of My Work In the form of Tutorial
 
-<a href="https://www.youtube.com/watch?v=v2384be0_qU&t=24s"><img src = "FR.PNG" width=708 hight=399 ></a>
+_**Note:** Please **Click the Image and Watch The Video._
+<a href="https://www.youtube.com/watch?v=v2384be0_qU&t=24s"><img src = "FR.PNG" width=708 hight=399></a>
 <hr>
 <a href="https://www.youtube.com/watch?v=QIF1eJcytnI&list=PLk6c4eFKmugRp_A-4eYzixYXbeNOOgR0G"><img src = "nlp.PNG" width=708 hight=399 ></a>
 <hr>
