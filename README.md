@@ -65,7 +65,7 @@
 ## Connect me on:
 - Email: nehal.ubit@gmail.com
 - Kaggle: https://www.kaggle.com/gatshabz22
-- Reddit: www.reddit.com/user/kingabzpro
+- LinkedIn: https://www.linkedin.com/in/nehal-ahmed-072949193/
 
 _**Note:** Please **do not spam** on the above mentioned profiles._
 ## Some of My Work In the form of Tutorial
