@@ -99,7 +99,7 @@
   </td>
   
 <td  width="30%">
-   <img src="AI For Every One.PNG" alt="AI For Every One" />
+   <img src="Ai.PNG" alt="AI For Every One" />
   </td>
   </tr>
   
