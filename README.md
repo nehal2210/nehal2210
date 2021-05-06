@@ -63,29 +63,31 @@
 * **Convolutional Neural Networks in TensorFlow by Coursera**
 * **Introduction to TensorFlow for ArtificialIntelligence, Machine Learning, and DeepLearning**
 * **DeepLearning Fundamentals by Cognitive Class.AI**
-* 
+
 <!-- tils ends -->
 
 </td></tr></table>
 
 
 <br>
-### Certificates
+
+## Certifications
 <table>
   <tr>
 <td>
-  <img src="" alt="" />
+  <img src="convo.jpg" alt="convolutional Networks" />
   </td>
   
 <td>
-   <img src="" alt="" />
+   <img src="Deep_learning.png" alt="Deep_learning" />
   </td>
   
 <td>
-   <img src="" alt="" />
+   <img src="AI For Every One.png" alt="AI For Every One" />
   </td>
   </tr>
 </table>
+
 ## Connect Me On:
 - Email: nehal.ubit@gmail.com
 - Kaggle: https://www.kaggle.com/gatshabz22
