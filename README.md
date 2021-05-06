@@ -105,7 +105,7 @@
   
   
   
-    <tr>
+ <tr>
 <td width="30%">
   <img src="3DPrinting.jpg" alt="3D Printing" />
   </td>
