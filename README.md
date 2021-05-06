@@ -60,10 +60,32 @@
 * **Python Microsoft Certification**
 * **AI For Every One by Andrew NG Coursera** 
 * **Introduction to Blockchain BY Zeeshan Usmani ALnafi**
+* **Convolutional Neural Networks in TensorFlow by Coursera**
+* **Introduction to TensorFlow for ArtificialIntelligence, Machine Learning, and DeepLearning**
+* **DeepLearning Fundamentals by Cognitive Class.AI**
+* 
 <!-- tils ends -->
 
 </td></tr></table>
 
+
+<br>
+### Certificates
+<table>
+  <tr>
+<td>
+  <img src="" alt="" />
+  </td>
+  
+<td>
+   <img src="" alt="" />
+  </td>
+  
+<td>
+   <img src="" alt="" />
+  </td>
+  </tr>
+</table>
 ## Connect Me On:
 - Email: nehal.ubit@gmail.com
 - Kaggle: https://www.kaggle.com/gatshabz22
@@ -83,3 +105,6 @@ _**Note:** Please **Click the Image** and Watch The Video._
 <a href="https://www.youtube.com/watch?v=7n-9kAPWR0k&t=15s"><img src = "TD.png" width=708 hight=399 ></a>
 <hr>
 <a href="https://www.youtube.com/watch?v=QRppGRS_DlQ&list=PLk6c4eFKmugQk5fmD4Sy--o6RcV_hnpRr"><img src = "cl.png" width=708 hight=399 ></a>
+
+
+
