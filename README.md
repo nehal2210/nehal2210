@@ -74,15 +74,15 @@
 ## Certifications
 <table>
   <tr>
-<td>
+<td width="33%">
   <img src="convo.JPG" alt="convolutional Networks" />
   </td>
   
-<td>
+<td width="33%">
    <img src="Deep_learning.PNG" alt="Deep_learning" />
   </td>
   
-<td>
+<td  width="33%">
    <img src="AI For Every One.PNG" alt="AI For Every One" />
   </td>
   </tr>
