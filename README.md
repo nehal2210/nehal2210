@@ -74,18 +74,37 @@
 ## Certifications
 <table>
   <tr>
-<td width="33%">
+<td width="30%">
   <img src="convo.JPG" alt="convolutional Networks" />
   </td>
   
-<td width="33%">
+<td width="30%">
    <img src="Deep_learning.PNG" alt="Deep_learning" />
   </td>
   
-<td  width="33%">
+<td  width="30%">
    <img src="AI For Every One.PNG" alt="AI For Every One" />
   </td>
   </tr>
+  
+  
+  
+  <tr>
+<td width="30%">
+  <img src="microsoft.PNG" alt="convolutional Networks" />
+  </td>
+  
+<td width="30%">
+   <img src="ntro_tens.JPG" alt="Deep_learning" />
+  </td>
+  
+<td  width="30%">
+   <img src="AI For Every One.PNG" alt="AI For Every One" />
+  </td>
+  </tr>
+  
+  
+  
 </table>
 
 ## Connect Me On:
