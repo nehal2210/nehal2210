@@ -91,11 +91,11 @@
   
   <tr>
 <td width="30%">
-  <img src="microsoft.PNG" alt="convolutional Networks" />
+  <img src="microsoft.PNG" alt="Python Micrsoft ceritification" />
   </td>
   
 <td width="30%">
-   <img src="ntro_tens.JPG" alt="Deep_learning" />
+   <img src="intro_tens.JPG" alt="intro_tens" />
   </td>
   
 <td  width="30%">
