@@ -83,7 +83,7 @@
   </td>
   
 <td  width="30%">
-   <img src="AI For Every One.PNG" alt="AI For Every One" />
+   <img src="Ai.PNG" alt="AI For Every One" />
   </td>
   </tr>
   
@@ -95,13 +95,31 @@
   </td>
   
 <td width="30%">
-   <img src="intro_tens.JPG" alt="intro_tens" />
+   <img src="intro_tens.JPG" alt="introduction to tensorflow" />
   </td>
   
 <td  width="30%">
-   <img src="Ai.PNG" alt="AI For Every One" />
+   <img src="pythongamma.JPG" alt="python Projects" />
   </td>
   </tr>
+  
+  
+  
+    <tr>
+<td width="30%">
+  <img src="3DPrinting.jpg" alt="3D Printing" />
+  </td>
+  
+<td width="30%">
+   <img src="flask.jpg" alt="flask" />
+  </td>
+  
+<td  width="30%">
+   <img src="ocvcertificate.jpg" alt="Open Cv" />
+  </td>
+  </tr>
+  
+  
   
   
   
