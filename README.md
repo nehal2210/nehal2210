@@ -75,15 +75,15 @@
 <table>
   <tr>
 <td>
-  <img src="convo.jpg" alt="convolutional Networks" />
+  <img src="convo.JPG" alt="convolutional Networks" />
   </td>
   
 <td>
-   <img src="Deep_learning.png" alt="Deep_learning" />
+   <img src="Deep_learning.PNG" alt="Deep_learning" />
   </td>
   
 <td>
-   <img src="AI For Every One.png" alt="AI For Every One" />
+   <img src="AI For Every One.PNG" alt="AI For Every One" />
   </td>
   </tr>
 </table>
