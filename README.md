@@ -20,6 +20,7 @@
 * **HTML**
 * **CSS**
 * **JavaScript**
+* **React JS**
 * **CPP**
 * **PCB Designing**
 * **SQL**
