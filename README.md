@@ -14,16 +14,20 @@
 ### Core Skills
 <!-- recent_releases starts -->
 
-* **Python**
+
 * **Algorithmic logic and problem solving**
 * **Git**
 * **HTML**
 * **CSS**
 * **JavaScript**
 * **React JS**
-* **CPP**
-* **PCB Designing**
+* **Express JS**
+* **Node JS**
+* **Django**
+* **Flask**
 * **SQL**
+* **MongoDB**
+* **Python**
 * **C#**
 * **Markdown**
 * **GUI APP**
@@ -44,12 +48,11 @@
 * **Beautiful Soup**
 * **Tensorflow**
 * **Keras**
-* **Django**
-* **Flask**
-* **MongoDB**
 * **Tkinter**
 * **PyQt5**
 * **Selenium**
+* **CPP**
+* **PCB Designing**
 
 <!-- blog ends -->
 
@@ -59,6 +62,7 @@
 <!-- tils starts -->
 
 * **Python Microsoft Certification**
+* **Bootcamp of Mern Development**  
 * **AI For Every One by Andrew NG Coursera** 
 * **Introduction to Blockchain BY Zeeshan Usmani ALnafi**
 * **Convolutional Neural Networks in TensorFlow by Coursera**
