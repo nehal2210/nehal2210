@@ -29,10 +29,9 @@
 * **MongoDB**
 * **Python**
 * **C#**
-* **Markdown**
-* **GUI APP**
-* **WebDevelopment**
-* **WebAutomation**
+* **Blockchain**
+* **Solidity**
+* **Smart Contracts**
 
 <!-- recent_releases ends -->
 </td><td valign="top" width="34%">
@@ -53,6 +52,10 @@
 * **Selenium**
 * **CPP**
 * **PCB Designing**
+* **Markdown**
+* **GUI APP**
+* **WebDevelopment**
+* **WebAutomation**
 
 <!-- blog ends -->
 
