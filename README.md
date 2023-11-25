@@ -72,6 +72,9 @@
 * **Convolutional Neural Networks in TensorFlow by Coursera**
 * **Introduction to TensorFlow for ArtificialIntelligence, Machine Learning, and DeepLearning**
 * **DeepLearning Fundamentals by Cognitive Class.AI**
+* **Blockchain Engineer by Patrick Collins**
+* **LearnWeb3**
+
 
 <!-- tils ends -->
 
