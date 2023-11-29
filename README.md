@@ -7,7 +7,7 @@
 - 🎓 I am graduate in Computer Science from University of Karachi.
 - 🌱 I'm Microsoft Python Certified Developer.
 - 💻 I am currently working on Blockchain Technology.
-- 🤝🏻 I have experience in Machine learning, Embeded Systems, Basic Data Science, Web Scrapping, Web Automation, Web Development and Blockchain.
+- 💻 capable to build end to end fullstack application in web2 and web3.
 
 ## My Skills
 <table><tr><td valign="top" width="33%">
