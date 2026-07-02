@@ -1,166 +1,43 @@
-<img align='center' src="abc.jpg" width="100%">
+## Hello World, I'm **Nehal Ahmed**! 🚀
 
-## Hello Beautiful World, I'm **Nehal Ahmed**!
-<img align='right' src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" width="250">
+I am a **Senior Full-Stack & Backend Engineer** specializing in AI engineering, LLM orchestration, scalable microservices, and decentralized systems. I love architecting complex solutions from the ground up—whether it's building production Agentic RAG systems or optimizing blockchain infrastructure.
 
-- 💻 I am a Software Engineer who love to solve Complex Problems and work on Innovative Ideas.
-- 🎓 I am graduate in Computer Science from University of Karachi.
-- 🌱 I'm Microsoft Python Certified Developer.
-- 💻 I am currently working on Blockchain Technology.
-- 💻 capable to build end to end fullstack application in web2 and web3.
+- 🏢 **Currently working on:** AI context services, LangGraph-based state machines, and multi-provider LLM infrastructure at **Plurality**.
+- 🛠 **Previously:** Built robust event-indexing pipelines, optimized cross-chain messaging, and audited smart contracts at **Lendvest**.
+- 💡 **Passionate about:** Distributed systems, AI Agents, Web3 architectures, and sharing knowledge (co-creator of a globally recognized Blockchain development course).
+- 📫 **Reach me at:** nehal.ubit@gmail.com | [LinkedIn](https://www.linkedin.com/in/nehal-ahmed-se/)
 
-## My Skills
-<table><tr><td valign="top" width="33%">
+---
 
-### Core Skills
-<!-- recent_releases starts -->
+## 🛠️ Tech Stack & Skills
 
+### Backend & Architecture
+**Node.js | Python | Go | TypeScript | REST APIs | GraphQL**  
+*Building highly concurrent, scalable microservices and robust API gateways.*
 
-* **Algorithmic logic and problem solving**
-* **Git**
-* **HTML**
-* **CSS**
-* **JavaScript**
-* **React JS**
-* **Express JS**
-* **Node JS**
-* **Django**
-* **Flask**
-* **SQL**
-* **MongoDB**
-* **Python**
-* **C#**
-* **Blockchain**
-* **Solidity**
-* **Smart Contracts**
+### AI & LLM Orchestration
+**LangChain | LangGraph | OpenAI/Gemini/Anthropic APIs | MCP Protocol | Agentic RAG**  
+*Designing state-machine driven LLM workflows, custom multi-provider AI factories, and automated document ingestion pipelines.*
 
-<!-- recent_releases ends -->
-</td><td valign="top" width="34%">
+### Cloud & DevOps
+**AWS | Docker | GitHub Actions (CI/CD) | PostgreSQL | MongoDB | Firebase | Space&Time**  
+*Automating deployments, setting up strict code review policies, and building custom event-driven cloud architectures.*
 
-### ToolKits
-<!-- blog starts -->
-* **Numpy**
-* **Pandas**
-* **Matplotlib**
-* **Plotly**
-* **Socket**
-* **request**
-* **Beautiful Soup**
-* **Tensorflow**
-* **Keras**
-* **Tkinter**
-* **PyQt5**
-* **Selenium**
-* **CPP**
-* **PCB Designing**
-* **Markdown**
-* **GUI APP**
-* **WebDevelopment**
-* **WebAutomation**
+### Blockchain & Web3
+**Solidity | Hardhat | Chainlink | LayerZero / CCIP | OpenZeppelin | Smart Contracts**  
+*Auditing contracts, optimizing gas fees by up to 50%, and building secure Vault systems.*
 
-<!-- blog ends -->
+### Frontend
+**React.js | Next.js | React Native | HTML/CSS**  
+*Delivering seamless, responsive interfaces and dynamic mobile applications.*
 
-</td><td valign="top" width="33%">
+---
 
-### Certified
-<!-- tils starts -->
+## 📈 Recent Highlights & Live Products
+- 🔗 **[Plurality Network](https://app.plurality.network/):** Architected a production Agentic RAG service utilizing LangGraph. Reduced token usage by 40% and improved latency by dynamically bypassing retrieval on conversational queries. Also designed a custom Multi-LLM Factory interface abstracting 9 AI providers to prevent vendor lock-in.
+- 🔗 **[Parrotix (Live on Play Store)](https://play.google.com/store/apps/details?id=com.parrotix.app):** Built a game-based language learning platform with a Node.js/TypeScript backend and React Native mobile app, integrating real-time TTS voice practice and Firebase push notifications.
 
-* **Python Microsoft Certification**
-* **Bootcamp of Mern Development**  
-* **AI For Every One by Andrew NG Coursera** 
-* **Introduction to Blockchain BY Zeeshan Usmani ALnafi**
-* **Convolutional Neural Networks in TensorFlow by Coursera**
-* **Introduction to TensorFlow for ArtificialIntelligence, Machine Learning, and DeepLearning**
-* **DeepLearning Fundamentals by Cognitive Class.AI**
-* **Blockchain Engineer by Patrick Collins**
-* **LearnWeb3**
+---
 
-
-<!-- tils ends -->
-
-</td></tr></table>
-
-
-<br>
-
-## Certifications
-<table>
-  <tr>
-<td width="30%">
-  <img src="convo.JPG" alt="convolutional Networks" />
-  </td>
-  
-<td width="30%">
-   <img src="Deep_learning.PNG" alt="Deep_learning" />
-  </td>
-  
-<td  width="30%">
-   <img src="Ai.PNG" alt="AI For Every One" />
-  </td>
-  </tr>
-  
-  
-  
-  <tr>
-<td width="30%">
-  <img src="microsoft.PNG" alt="Python Micrsoft ceritification" />
-  </td>
-  
-<td width="30%">
-   <img src="intro_tens.JPG" alt="introduction to tensorflow" />
-  </td>
-  
-<td  width="30%">
-   <img src="pythongamma.JPG" alt="python Projects" />
-  </td>
-  </tr>
-  
-  
-  
- <tr>
-<td width="30%">
-  <img src="3DPrinting.jpg" alt="3D Printing" />
-  </td>
-  
-<td width="30%">
-   <img src="flask.jpg" alt="flask" />
-  </td>
-  
-<td  width="30%">
-   <img src="ocvcertificate.jpg" alt="Open Cv" />
-  </td>
-  </tr>
-  
-  
-  
-  
-  
-</table>
-
-## Connect Me On:
-- Email: nehal.ubit@gmail.com
-- Kaggle: https://www.kaggle.com/gatshabz22
-- LinkedIn: https://www.linkedin.com/in/nehal-ahmed-072949193/
-
-_**Note:** Please **do not spam** on the above mentioned profiles._
-## Some of My Work In the form of Tutorial
-
-_**Note:** Please **Click the Image** and Watch The Video._
-
-<br>
-<a href="https://www.youtube.com/watch?v=t0Bb7Tl6bw4&list=PL1Xmyl4aKTRjyFTjaekHCtxZZdsNBUZKW&index=1"><img src = "Blockchain.jpg" width=708 hight=399></a>
-<hr>
-
-<br>
-<a href="https://www.youtube.com/watch?v=v2384be0_qU&t=24s"><img src = "FR.PNG" width=708 hight=399></a>
-<hr>
-<a href="https://www.youtube.com/watch?v=QIF1eJcytnI&list=PLk6c4eFKmugRp_A-4eYzixYXbeNOOgR0G"><img src = "nlp.PNG" width=708 hight=399 ></a>
-<hr>
-<a href="https://www.youtube.com/watch?v=EnVnqI6crv0"><img src = "OR.png" width=708 hight=399 ></a>
-<hr>
-<a href="https://www.youtube.com/watch?v=7n-9kAPWR0k&t=15s"><img src = "TD.png" width=708 hight=399 ></a>
-<hr>
-<a href="https://www.youtube.com/watch?v=QRppGRS_DlQ&list=PLk6c4eFKmugQk5fmD4Sy--o6RcV_hnpRr"><img src = "cl.png" width=708 hight=399 ></a>
-
-
-
+## 📺 Community & Education
+I love sharing knowledge. I co-created a comprehensive, free Blockchain developm
